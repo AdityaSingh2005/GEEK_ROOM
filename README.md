@@ -1,6 +1,4 @@
-<p align="center">
-<img width="300" height="300" alt="Screenshot 2023-04-06 104419" src="https://github.com/AdityaSingh2005/GEEK-ROOM/assets/103613774/13ff6edc-49be-4f98-a336-7efbf8c40209">
-</p>
+
 
 # GEEK-ROOM
 Welcome to Geek Room, a vibrant community where knowledge meets enthusiasm and coding enthusiasts from different colleges come together to embark on an exciting coding journey. Whether you're a seasoned coder or a beginner eager to dive into the world of programming, Geek Room welcomes you with open arms.
